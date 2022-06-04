@@ -1,7 +1,7 @@
 apt update && apt upgrade -y
 pkg install python python2 -y
-pkg install libcaca sl cmatrix -y
-pkg install openssh curl nano -y
+pkg install libcaca sl cmatrix neofetch -y
+pkg install wget openssh curl nano -y
 pkg install toilet figlet -y
 pkg install termux-api -y
 termux-setup-storage and
