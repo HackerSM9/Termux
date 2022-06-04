@@ -4,4 +4,4 @@ pkg install libcaca sl cmatrix -y
 pkg install openssh curl -y
 pkg install toilet figlet -y
 clear
-toilet -f smblock -F gay HackerSM9
+toilet -F gay HackerSM9
