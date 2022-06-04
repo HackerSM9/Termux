@@ -1,0 +1,7 @@
+apt update && apt upgrade -y
+pkg install python python2 -y
+pkg install libcaca sl cmatrix -y
+pkg install openssh curl -y
+pkg install toilet figlet -y
+clear
+figlet -F gay Hacker 
