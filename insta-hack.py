@@ -1,4 +1,5 @@
 #!/bin/env python3
+#pip install -r requirements.txt
 
 import os, sys
 sys.path.append(os.getcwd()+"/.lib/")
