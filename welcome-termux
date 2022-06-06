@@ -1,4 +1,5 @@
-cd..
+cd
+cd ..
 ls
 cd usr
 ls
