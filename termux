@@ -7,3 +7,10 @@ pkg install termux-api -y
 termux-setup-storage -y
 clear
 toilet -F gay HackerSM9
+
+echo "Welcome HackerSM9!"
+echo ""
+echo "Google Developer Account:    https://g.dev/Hackersm9"
+echo "GitHub Account:              https://github.com/Hackersm9"
+echo "Website:                     https://s3amar.mimo.run/"
+echo ""
