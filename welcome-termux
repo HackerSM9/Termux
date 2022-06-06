@@ -1,0 +1,7 @@
+cd..
+ls
+cd usr
+ls
+cd etc
+ls
+nano bash.bashrc
