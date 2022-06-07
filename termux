@@ -14,6 +14,6 @@ END="\e[0m"
 echo "Welcome HackerSM9!"
 echo ""
 echo -e "Google Developer Account:    ${PUR}https://g.dev/Hackersm9${END}"
-echo -e "GitHub Account:              ${PUR}https://github.com/Hackersm9${END}
+echo -e "GitHub Account:              ${PUR}https://github.com/Hackersm9${END}"
 echo -e "Website:                     ${PUR}https://s3amar.mimo.run/${END}"
 echo ""
