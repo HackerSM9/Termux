@@ -1,0 +1,6 @@
+cd
+cd ..
+cd usr
+cd etc 
+ls
+git clone 
