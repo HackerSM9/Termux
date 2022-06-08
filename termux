@@ -8,7 +8,7 @@ termux-setup-storage
 clear
 toilet -F gay HackerSM9
 
-PUR="\e[35m"
+PUR="\e[96m"
 END="\e[0m"
 
 echo "Welcome HackerSM9!"
