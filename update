@@ -1,4 +1,4 @@
 cd
 rm -rf Hacking
 cd
-git clone https://github.com/Hackersm9/Hacking
+git clone https://github.com/Hackersm9/termux
