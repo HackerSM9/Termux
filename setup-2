@@ -1,6 +1,0 @@
-cd
-cd ..
-cd usr
-cd etc 
-ls
-git clone https://github.com/Hackersm9/Hacking/blob/main/motd
