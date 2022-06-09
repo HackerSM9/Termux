@@ -4,6 +4,7 @@ pkg install libcaca sl cmatrix neofetch -y
 pkg install wget w3m openssh perl curl nano -y
 pkg install toilet figlet -y
 pkg install termux-api termimage -y
+apt install clang -y
 termux-setup-storage
 clear
 toilet -F gay HackerSM9
