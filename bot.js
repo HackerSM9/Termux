@@ -1,8 +1,7 @@
 //                     zimbot.inc.pressents 
 //                     2022 production
-//                     Thanks to dikArdnt
+//                     Thanks to HackerSM9
                                                                                         //drips
-
 require('./settings')
 const { default: ZimBotIncConnect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
 const { state, saveState } = useSingleFileAuthState(`./${sessionName}.json`)
