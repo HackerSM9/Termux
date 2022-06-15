@@ -4,6 +4,18 @@
 alt="GitHub Account HackerSM9">
 </p>
 
+>## Install my Repository in Termux:
+
+* `pkg install git`
+* `git clone https://github.com/Hackersm9/termux`
+
+>## To takes out your Mobile's data in Termux:
+
+```
+cd && cd termux && bash sm9fetch-1 && bash sm9fetch-2 && bash sm9fetch-3 
+
+```
+
 >### To remove Termux's Welcome Screen:
 - `cd`
 - `cd ..`
@@ -14,10 +26,14 @@ alt="GitHub Account HackerSM9">
 
 >### What's in the file of Gits..! 
 There are some Hacking tools like:
+
 * Tbomb
 * Insta-Hack
 * Osi.ig
 * WhatsApp-Hack
+* Call+SMS Bomber
+
+*This is not for **illegal** usage..⚠️*
 
 >### How to install lolcat
 * `git clone https://github.com/Hackersm9/Hacking`
