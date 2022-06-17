@@ -6,7 +6,7 @@ alt="GitHub Account HackerSM9">
 
 ># Disclaimer: 
 
-### You shall not misuse the information to gain unauthorised access.
+### You shall not misuse the information to gain unauthorised access. I shall not be Responsible for Anything, Use at Your Own Risk..⚠️
 
 >## Install my Repository in Termux:
 
