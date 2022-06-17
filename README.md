@@ -1,8 +1,12 @@
-# Hacking with HackerSM9
+# <span style="color:red;"> Hacking with HackerSM9 </span>
 <p align="center">
 <a href="https://github.com/Hackersm9/"><img src="https://img.shields.io/badge/github-HackerSM9-black.svg?style=social&logo=github"
 alt="GitHub Account HackerSM9">
 </p>
+
+># Disclaimer: 
+
+### You shall not misuse the information to gain unauthorised access.
 
 >## Install my Repository in Termux:
 
@@ -33,11 +37,12 @@ There are some Hacking tools like:
 * WhatsApp-Hack
 * Call+SMS Bomber
 
-*This is not for **illegal** usage..⚠️*
+Note: *This is not for **illegal** usage..⚠️*
 
 >### How to install lolcat
-* `git clone https://github.com/Hackersm9/Hacking`
-* `cd Hacking` 
+* `cd`
+* `git clone https://github.com/Hackersm9/termux`
+* `cd termux` 
 * `chmod +x *`
 * `ls`
 * `bash lolcat`
