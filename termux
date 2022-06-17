@@ -5,6 +5,7 @@ pkg install wget w3m openssh perl curl nano -y
 pkg install toilet figlet -y
 pkg install termux-api termimage -y
 apt install clang -y
+pip install lolcat -y
 termux-setup-storage
 clear
 toilet -F gay HackerSM9
