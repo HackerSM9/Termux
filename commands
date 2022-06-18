@@ -1,0 +1,7 @@
+pkg install termux-api
+termux-setup-storage
+termux-battery-status
+termux-call-log
+termux-contact-list
+termux-wifi-enable true 
+termux-wifi-scaninfo
