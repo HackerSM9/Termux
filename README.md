@@ -39,12 +39,13 @@ There are some Hacking tools like:
 
 Note: *This is not for **illegal** usage..⚠️*
 
->### How to install lolcat
+>### How to change termux-welcome-screen
 * `cd`
 * `git clone https://github.com/Hackersm9/termux`
 * `cd termux` 
 * `chmod +x *`
 * `ls`
-* `bash lolcat`
+* `bash setup`
+* `exit`
 
 
