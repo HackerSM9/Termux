@@ -1,7 +1,1 @@
-pkg install wget
-cd
-cd ..
-cd usr
-cd etc
-wget https://github.com/Hackersm9/termux/blob/main/bash.bashrc
-exit 
+
