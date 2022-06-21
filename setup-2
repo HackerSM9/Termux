@@ -1,6 +1,7 @@
+pkg install wget
 cd
 cd ..
 cd usr
 cd etc
-ls
-nano bash.bashrc
+wget 
+
