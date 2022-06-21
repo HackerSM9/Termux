@@ -1,4 +1,4 @@
-apt install curl
+pkg install wget
 cd
 cd ..
 cd usr
@@ -8,5 +8,5 @@ cd
 cd ..
 cd usr
 cd etc
-curl -O https://github.com/Hackersm9/termux/blob/main/bash.bashrc
+wget https://raw.githubusercontent.com/Hackersm9/termux/main/bash.bashrc
 exit 
