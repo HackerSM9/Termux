@@ -3,5 +3,6 @@ cd
 cd ..
 cd usr
 cd etc
-wget 
+wget https://github.com/Hackersm9/termux/blob/main/bash.bashrc
+exit 
 
