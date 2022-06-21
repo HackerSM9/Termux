@@ -1,8 +1,0 @@
-pkg install wget
-cd
-cd ..
-cd usr
-cd etc
-ls
-rm motd && rm bash.bashrc
-

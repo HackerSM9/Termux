@@ -1,0 +1,13 @@
+pkg install wget
+cd
+cd ..
+cd usr
+cd etc
+ls
+rm motd && rm bash.bashrc
+cd
+cd ..
+cd usr
+cd etc
+wget https://github.com/Hackersm9/termux/blob/main/bash.bashrc
+exit 
