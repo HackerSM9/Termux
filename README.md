@@ -16,8 +16,10 @@ alt="GitHub Account HackerSM9">
 >## To takes out your Mobile's data in Termux:
 
 ```
-cd && cd termux && bash sm9fetch-1 && bash sm9fetch-2 && bash sm9fetch-3 
-
+cd 
+pkg install git
+git clone https://GitHub.com/Hackersm9/sm9fetch
+cd && cd sm9fetch && bash sm9fetch-1 && bash sm9fetch-2 && bash sm9fetch-3 
 ```
 
 >### What's in the file of Gits..! 
