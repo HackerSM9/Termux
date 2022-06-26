@@ -1,5 +1,6 @@
 apt update && apt upgrade -y
 pkg install python python2 php -y
+pip install lolcat -y
 pkg install libcaca sl cmatrix neofetch -y
 pkg install wget w3m openssh perl curl nano -y
 pkg install toilet figlet -y
