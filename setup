@@ -1,8 +1,14 @@
 pkg install wget
 pip install lolcat
+pkg install git
+cd
+git clone https://github.com/Hackersm9/termux
 cd
 cd /data/data/com.termux/files/usr/etc/
 rm motd
 cd 
 cd /data/data/com.termux/files/usr/etc/
 rm bash.bashrc
+cd 
+cd termux
+bash setup2
