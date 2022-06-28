@@ -13,4 +13,5 @@ echo "
 ╱╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱ 
 " | lolcat
 echo "Now type exit and press enter key..."
+echo ""
 exit 
