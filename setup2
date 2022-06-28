@@ -1,1 +1,8 @@
-
+pkg install wget
+pip install lolcat
+cd
+cd /data/data/com.termux/files/usr/etc/
+rm motd
+cd 
+cd /data/data/com.termux/files/usr/etc/
+rm bash.bashrc
