@@ -1,25 +1,8 @@
 pkg install wget
 pip install lolcat
 cd
-cd ..
-cd usr
-cd etc
-rm motd && rm bash.bashrc
-cd
-cd ..
-cd usr
-cd etc
-wget https://raw.githubusercontent.com/Hackersm9/termux/main/bash.bashrc
-echo "
-
-╭━━━╮╱╱╭╮╱╱╱╱╱╱╱  ╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╮╱╱╭╮
-┃╭━╮┃╱╭╯╰╮╱╱╱╱╱╱  ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃╭╯╱╱┃┃
-┃╰━━┳━┻╮╭╋╮╭┳━━╮  ┃╰━━┳╮╭┳━━┳━━┳━━┳━━┳━━┳╯╰┳╮╭┫┃
-╰━━╮┃┃━┫┃┃┃┃┃╭╮┃  ╰━━╮┃┃┃┃╭━┫╭━┫┃━┫━━┫━━╋╮╭┫┃┃┃┃
-┃╰━╯┃┃━┫╰┫╰╯┃╰╯┃  ┃╰━╯┃╰╯┃╰━┫╰━┫┃━╋━━┣━━┃┃┃┃╰╯┃╰╮
-╰━━━┻━━┻━┻━━┫╭━╯  ╰━━━┻━━┻━━┻━━┻━━┻━━┻━━╯╰╯╰━━┻━╯
-╱╱╱╱╱╱╱╱╱╱╱╱┃┃ ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
-╱╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱ 
-" | lolcat
-echo "Now type exit and press enter key..."
-exit 
+cd /data/data/com.termux/files/usr/etc/
+rm motd
+cd 
+cd /data/data/com.termux/files/usr/etc/
+rm bash.bashrc
