@@ -6,3 +6,4 @@ rm motd
 cd 
 cd /data/data/com.termux/files/usr/etc/
 rm bash.bashrc
+bash setup2
