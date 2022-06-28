@@ -1,3 +1,4 @@
+cd
 cd /data/data/com.termux/files/usr/etc/
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/bash.bashrc
 echo "
