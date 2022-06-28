@@ -11,4 +11,4 @@ cd /data/data/com.termux/files/usr/etc/
 rm bash.bashrc
 cd 
 cd termux
-bash setup2
+bash .setup2
