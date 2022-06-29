@@ -6,4 +6,4 @@ rm termux.properties colors.properties
 cd
 cd $HOME/.termux
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/termux.properties
-wget 
+wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/colors.properties
