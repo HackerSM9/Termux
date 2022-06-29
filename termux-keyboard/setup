@@ -5,4 +5,4 @@ cd $HOME/.termux
 rm termux.properties
 cd
 cd $HOME/.termux
-wget 
+wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-keyboard/termux.properties
