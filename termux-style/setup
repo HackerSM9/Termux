@@ -2,7 +2,8 @@ pkg install wget
 cd 
 mkdir .termux
 cd $HOME/.termux
-rm termux.properties
+rm termux.properties colors.properties
 cd
 cd $HOME/.termux
-wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-keyboard/termux.properties
+wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/termux.properties
+wget 
