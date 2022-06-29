@@ -12,7 +12,7 @@ export HISTCONTROL=ignoreboth
 
 # Default command line prompt.
 PROMPT_DIRTRIM=2
-PS1='\[\e[38;5;135m\]⦃ HackerSM9 ⦄\[\e[0m\] \[\e[0;32m\] \w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+PS1='\[\e[38;5;176m\]⦃ HackerSM9 ⦄\[\e[0m\] \[\e[0;32m\] \w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
 
 # Handles nonexistent commands.
 # If user has entered command which invokes non-available
