@@ -1,0 +1,8 @@
+pkg install wget 
+cd 
+mkdir .termux
+cd $HOME/.termux
+rm termux.properties
+cd
+cd $HOME/.termux
+wget 
