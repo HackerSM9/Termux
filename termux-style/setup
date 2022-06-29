@@ -7,3 +7,4 @@ cd
 cd $HOME/.termux
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/termux.properties
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/colors.properties
+termux-reload-settings
