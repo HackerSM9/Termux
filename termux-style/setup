@@ -1,4 +1,5 @@
 pkg install wget 
+pip install lolcat
 cd 
 mkdir .termux
 cd $HOME/.termux
@@ -8,3 +9,13 @@ cd $HOME/.termux
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/termux.properties
 wget https://raw.githubusercontent.com/Hackersm9/termux/main/termux-style/colors.properties
 termux-reload-settings
+clear
+echo "
+╭━━━╮╱╱╭╮╱╱╱╱╱╱╱ ╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╮╱╱╭╮
+┃╭━╮┃╱╭╯╰╮╱╱╱╱╱╱ ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃╭╯╱╱┃┃
+┃╰━━┳━┻╮╭╋╮╭┳━━╮ ┃╰━━┳╮╭┳━━┳━━┳━━┳━━┳━━┳╯╰┳╮╭┫┃
+╰━━╮┃┃━┫┃┃┃┃┃╭╮┃ ╰━━╮┃┃┃┃╭━┫╭━┫┃━┫━━┫━━╋╮╭┫┃┃┃┃
+┃╰━╯┃┃━┫╰┫╰╯┃╰╯┃ ┃╰━╯┃╰╯┃╰━┫╰━┫┃━╋━━┣━━┃┃┃┃╰╯┃╰╮
+╰━━━┻━━┻━┻━━┫╭━╯ ╰━━━┻━━┻━━┻━━┻━━┻━━┻━━╯╰╯╰━━┻━╯
+╱╱╱╱╱╱╱╱╱╱╱╱┃┃ ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+╱╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱" | lolcat
