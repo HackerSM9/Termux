@@ -1,10 +1,13 @@
 apt update && apt upgrade -y
-pkg install python python2 php -y
+pkg install python3 -y
+pkg install nano && pkg install toilet -y
+pkg install neofetch -y
+pkg install php -y
 pip install lolcat -y
-pkg install libcaca sl cmatrix neofetch -y
-pkg install wget w3m openssh perl curl nano -y
-pkg install toilet figlet -y
-pkg install termux-api termimage -y
+pkg install libcaca && pkg install sl && pkg install cmatrix -y
+pkg install wget && pkg install w3m && pkg install openssh && pkg install perl && pkg install curl -y
+pkg install figlet -y
+pkg install termux-api && pkg install termimage -y
 apt install clang -y
 pip install lolcat -y
 termux-setup-storage
