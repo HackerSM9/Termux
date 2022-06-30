@@ -1,5 +1,6 @@
 bash pkgs 
 bash gits
+bash lolcat
 pkg install wget
 pip install lolcat
 pkg install git
