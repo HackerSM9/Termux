@@ -1,3 +1,6 @@
 pkg install ruby
+ruby install gem
+gem install rake 
+gem install lolcat
 pkg install python3
 pip install lolcat
