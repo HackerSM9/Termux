@@ -2,6 +2,7 @@ apt update && apt upgrade -y
 pkg install python3 -y
 pkg install nano && pkg install toilet -y
 pkg install neofetch -y
+pkg install apache2 -y
 pkg install php -y
 pip install lolcat -y
 pkg install libcaca && pkg install sl && pkg install cmatrix -y
