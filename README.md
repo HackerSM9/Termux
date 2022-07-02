@@ -4,10 +4,10 @@
 alt="GitHub Account HackerSM9">
 </p>
 
-># Disclaimer: 
+## Disclaimer: 
+> You shall not misuse the information to gain unauthorised access. I will not be Responsible for Anything, Use at Your Own Risk..⚠️
 
-### You shall not misuse the information to gain unauthorised access. I will not be Responsible for Anything, Use at Your Own Risk..⚠️
-
+> **_Note_**:  This not for **illegal** usage..⚠️
 >## Install my Repository in Termux:
 
 * `pkg install git`
