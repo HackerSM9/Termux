@@ -8,9 +8,9 @@ echo "
 ╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
 ╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯" | lolcat
 cd
-rm -rf termux
+rm -rf Termux
 cd
-git clone https://github.com/Hackersm9/termux
+git clone https://github.com/Hackersm9/Termux
 clear
 echo "
 ██████╗░░█████╗░███╗░░██╗███████╗
