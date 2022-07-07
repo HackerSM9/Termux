@@ -10,6 +10,7 @@ alt="GitHub Account HackerSM9">
 > **_Note_**:  This not for **illegal** usage..⚠️
 >## Install my Repository in Termux:
 
+* `cd $HOME`
 * `pkg install git`
 * `git clone https://github.com/Hackersm9/Termux`
 
