@@ -11,7 +11,7 @@ alt="GitHub Account HackerSM9">
 >## Install my Repository in Termux:
 
 * `pkg install git`
-* `git clone https://github.com/Hackersm9/termux`
+* `git clone https://github.com/Hackersm9/Termux`
 
 >## To takes out your Mobile's data in Termux:
 
