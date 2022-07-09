@@ -1,3 +1,4 @@
+pkg --check-mirror update
 apt update && apt upgrade -y
 pkg install python python2 python3 -y
 pkg install nano && pkg install toilet -y
