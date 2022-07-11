@@ -5,7 +5,7 @@ pkg install wget
 pip install lolcat
 pkg install git
 cd
-git clone https://github.com/Hackersm9/termux
+git clone https://github.com/Hackersm9/Termux
 cd
 cd /data/data/com.termux/files/usr/etc/
 rm motd
@@ -13,5 +13,5 @@ cd
 cd /data/data/com.termux/files/usr/etc/
 rm bash.bashrc
 cd 
-cd termux
+cd Termux
 bash .setup2
