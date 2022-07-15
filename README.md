@@ -12,7 +12,7 @@ alt="GitHub Account HackerSM9">
 
 * `cd $HOME`
 * `pkg install git`
-* `git clone https://github.com/Hackersm9/Termux`
+* `git clone https://github.com/HackerSM9/Termux`
 
 >## To takes out your Mobile's data in Termux:
 
