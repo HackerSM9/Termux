@@ -22,10 +22,10 @@ if [ -x @TERMUX_PREFIX@/libexec/termux/command-not-found ]; then
 		@TERMUX_PREFIX@/libexec/termux/command-not-found "$1"
 	}
 fi
-toilet -F gay HackerSM9
+toilet -F gay $'\x48\x61\x63\x6b\x65\x72\x53\x4d\x39'
 PUR="\e[96m"
 END="\e[0m"
-echo "Welcome HackerSM9!" | lolcat 
+echo 'Welcome \x48\x61\x63\x6b\x65\x72\x53\x4d\x39!' | lolcat 
 echo ""
 echo -e "Google Developer Account:    ${PUR}https://g.dev/Hackersm9${END}"
 echo -e "GitHub Account:              ${PUR}https://github.com/Hackersm9${END}"
