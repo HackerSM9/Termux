@@ -1,3 +1,4 @@
+pkg --check-mirror update
 bash pkgs
 bash gits
 bash lolcat
