@@ -18,4 +18,3 @@ rm bash.bashrc
 cd
 cd Termux
 bash .setup2
-
