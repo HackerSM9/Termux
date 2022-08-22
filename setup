@@ -3,6 +3,7 @@ bash pkgs
 bash gits
 bash lolcat
 pkg install wget
+pip install -r r.txt
 pip install lolcat
 pkg install git
 cd
