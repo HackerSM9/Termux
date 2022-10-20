@@ -1,4 +1,5 @@
 apt update && apt upgrade -y
+pkg install gh -y
 pkg install python python2 python3 -y
 pkg install swift -y
 pkg install nano && pkg install toilet -y
