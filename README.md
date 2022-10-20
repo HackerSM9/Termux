@@ -14,20 +14,11 @@ alt="GitHub Account HackerSM9">
 * `pkg install git`
 * `git clone https://github.com/HackerSM9/Termux`
 
->## To takes out your Mobile's data in Termux:
-
-```
-cd 
-pkg install git
-git clone https://GitHub.com/Hackersm9/sm9fetch
-cd && cd sm9fetch && bash sm9fetch-1 && bash sm9fetch-2 && bash sm9fetch-3 
-```
-
 >### What's in the file of Gits..! 
 There are some Hacking tools like:
 
-* Tbomb
 * Insta-Hack
+* Tbomb
 * Osi.ig
 * WhatsApp-Hack
 * Call+SMS Bomber
