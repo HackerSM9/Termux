@@ -23,7 +23,7 @@ There are some Hacking tools like:
 * WhatsApp-Hack
 * Call+SMS Bomber
 
-Note: *This is not for **illegal** usage..⚠️*
+> **_Note_** : *This is not for **illegal** usage..⚠️*
 
 >### How to change termux-welcome-screen
 * `cd`
