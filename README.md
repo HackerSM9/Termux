@@ -8,13 +8,13 @@ alt="GitHub Account HackerSM9">
 > You shall not misuse the information to gain unauthorised access. I will not be Responsible for Anything, Use at Your Own Risk..⚠️
 
 > **_Note_**:  This not for **illegal** usage..⚠️
->## Install my Repository in Termux:
+## Install my Repository in Termux:
 
 * `cd $HOME`
 * `pkg install git`
 * `git clone https://github.com/HackerSM9/Termux`
 
->### What's in the file of Gits..! 
+### What's in the file of Gits..! 
 There are some Hacking tools like:
 
 * Insta-Hack
@@ -25,7 +25,7 @@ There are some Hacking tools like:
 
 > **_Note_** : *This is not for **illegal** usage..⚠️*
 
->### How to change termux-welcome-screen
+### How to change termux-welcome-screen
 * `cd`
 * `git clone https://github.com/Hackersm9/termux`
 * `cd termux` 
